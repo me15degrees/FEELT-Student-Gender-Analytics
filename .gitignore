@@ -1,0 +1,32 @@
+# Ambiente virtual Python
+venv/
+.venv/
+
+# Configurações do Visual Studio Code
+.vscode/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de logs
+*.log
+
+# Ruff
+.ruff_cache/
+
+# Arquivos de teste
+*.cover
+*.py,cover
+*.pytest_cache/
+*.hypothesis/
+
+# Diretórios de build
+build/
+dist/
+*.egg-info/
+
+# Outros
+secret.py
+Ingressantes 2019 a 2024 - FEELT.csv
