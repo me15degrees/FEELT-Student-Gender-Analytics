@@ -61,7 +61,7 @@ for nome_curso, codigo_curso in cursos.items():
 
     plt.tight_layout()
     
-    plt.savefig(f'images/Situação Evasão Engenharia {nome_curso}.png', dpi=300, bbox_inches='tight')
+    plt.savefig(f'images/Situação_Evasão_Cursos/Situação Evasão Engenharia {nome_curso}.png', dpi=300, bbox_inches='tight')
     plt.close() 
 
 print("Imagens geradas com sucesso!")
